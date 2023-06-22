@@ -3,7 +3,6 @@ body{
     box-sizing: border-box;
     margin: 0px;
 }
-
 img{
     width: 100%;
     height: auto;
@@ -13,7 +12,7 @@ img{
     width: 100%;
     display: flex;
     justify-content: center;
-    margin-top: 6rem;
+    margin-top: 10rem;
 }
 
 .first-heading{
@@ -423,5 +422,50 @@ img{
 /* logo */
 
 .logoContainer{
-    width: 12rem;
+    width: 8rem;
+}
+
+.greenboxparentContainer{
+    margin-top: 7rem;
+}
+
+.navlinktag{
+    color: gray;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+
+.navbarContainer{
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: rgb(194, 192, 192) 0px 0px 5px;
+    width: 100%;
+    padding: 0px 5rem;
+    background-color: white;
+    position: fixed;
+    top: 0px;
+    z-index: 1;
+}
+
+.productRoute{
+    padding-top: 5rem;
+}
+
+.resourcesRoute{
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.imageContainer{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5.3rem;
+}
+
+.resourcesimg{
+    width: 45%;
+    box-shadow: rgb(182, 181, 181) 0px 0px 3px;
 }
