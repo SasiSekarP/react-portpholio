@@ -1,0 +1,41 @@
+.greenContainer{
+    background-color: #202020;
+    color: white;
+}
+
+.greenHeading{
+    width: 100%;
+    text-align: center;
+    font-size: 3rem;
+    padding: 5rem 0px 3rem;
+    font-weight: 700;
+}
+
+.input-row2{
+    width: 100%;
+    text-align: center;
+}
+
+.greenBoxTxt{
+    text-align: center;
+    font-size: 1.4rem;
+    padding-bottom: 3rem;
+}
+
+.greenboxImg{
+    width: 15rem;
+    margin-right: 1rem;
+}
+
+.greenboxstarrow{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+    align-items: center;
+    padding-bottom: 6rem;
+}
+
+.greenboxparentContainer{
+    margin-top: 7rem;
+}

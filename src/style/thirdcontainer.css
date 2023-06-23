@@ -1,0 +1,23 @@
+.thirdCard{
+    width: 25rem;
+}
+
+.thirdCardImg{
+    border-radius: 1rem;
+}
+
+.thirdCardTitle{
+    font-weight: 600;
+    margin: 1.2rem 0px;
+    font-size: 23px;
+}
+
+.thirdCardTitle:hover{
+    color: #0857d5;
+}
+
+.thirdCardTxt{
+    color: rgb(99, 98, 98);
+    font-size: 1.2rem;
+    margin: 2rem 0px;
+}

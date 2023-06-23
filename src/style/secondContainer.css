@@ -1,0 +1,57 @@
+.secondCardsContainer{
+    padding: 0px 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.secondClassCard{
+    box-shadow: rgb(215, 213, 213) 0px 0px 2px;
+    border-radius: 2rem;
+    width: 20rem;
+    margin: 0.8rem;
+    padding: 2rem 2rem 3rem 2rem;
+}
+
+.secondClassCardTitle{
+    color: #0b69ff;
+    font-size: 2.8rem;
+}
+
+.secondClassCardLable{
+    color: gray;
+}
+
+.secondsmallContainer{
+    height: 4rem;
+}
+
+.secondCardSmallImage{
+    width: 3rem;
+    margin-right: 1rem;
+}
+
+.secondsmallCardContainer{
+    margin-top: 3rem;
+}
+
+.secondsmallContainer{
+    display: flex;
+    margin: 2rem 0px 1rem;
+    border-top: 1px solid rgb(231, 222, 222);
+    padding-top: 2rem;
+}
+
+.secondCardRightTop{
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.secondCardRightTop:hover{
+    color: #0857d5;
+}
+
+.secondCardRightBottom{
+    color: gray;
+    font-size: 13px;
+}

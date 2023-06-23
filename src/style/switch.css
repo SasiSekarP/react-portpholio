@@ -1,0 +1,37 @@
+.switchCard{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 6rem;
+}
+
+.left{
+    flex-direction: row-reverse;
+}
+
+.right{
+    flex-direction: row;
+}
+
+.imgContainer,.switchCardTxtArea{
+    width: 28.7rem;
+    margin: 0px 7rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.switchCardTxtAreaTitle{
+    font-size: 2.5rem;
+    font-weight: 800;
+}
+
+.switchCardTxtAreaTxt{
+    color: gray;
+    font-size: 1.3rem;
+}
+
+.switchCardTxtAreaBlue{
+    color: #0b69ff;
+    font-weight: 600;
+    font-size: 1.3rem;
+}

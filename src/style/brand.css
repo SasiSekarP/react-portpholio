@@ -1,0 +1,14 @@
+.brand_row{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 3rem 0px;
+}
+
+.brand-card{
+    margin: 5px;
+    width: 11.3rem;
+    height: auto;
+}

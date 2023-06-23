@@ -1,0 +1,17 @@
+.thirdCard2{
+    width: 25rem;
+    margin-bottom: 5rem;
+}
+
+.imageContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5rem;
+}
+
+.resourcesimg{
+    width: 46%;
+    margin: 0px 0.8rem;
+    box-shadow: rgb(193, 192, 192) 0px 0px 2px;
+}
