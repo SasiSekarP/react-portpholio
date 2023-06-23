@@ -14,7 +14,6 @@ import "./style/secondContainer.css";
 import "./style/service.css";
 import "./style/switch.css";
 import "./style/thirdcontainer.css";
-import "./style/responsivescreen.css";
 
 const App = () => {
   return (
