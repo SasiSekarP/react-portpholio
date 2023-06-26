@@ -1,5 +1,7 @@
 import "../App.css";
 
+import { Link } from "react-router-dom";
+
 import BrandLogo from "./brandlog";
 import InputComponent from "./input";
 import MemberCard from "./membercard";
@@ -76,7 +78,9 @@ function Home() {
       <div className="container">
         <ThirdCardData />
       </div>
-      <div className="linkTxt">View All Resources</div>
+      <div className="linkTxt">
+        <Link to="/resources">View All Resources</Link>
+      </div>
       <GreenContainer />
     </div>
   );
